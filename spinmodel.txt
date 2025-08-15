@@ -1,0 +1,6 @@
+Hi team,
+
+This is a new file added in the list.
+
+changes are made and saved, but in the stash memory.
+
